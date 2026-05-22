@@ -1,0 +1,6 @@
+{
+  "Name": "Prescreen",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
